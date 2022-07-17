@@ -1,99 +1,106 @@
 # c++ Tutorial
-\\ Session 1 : Variables
+Session 1 : Variables
 <br>
-\\ Session 2 : input output
+Session 2 : input output
 <br>
-\\ Session 3 : if/else
+Session 3 : if/else
 <br>
-\\ Project 1
+Project 1
 <br>
-\\ Project 2
+Project 2
 <br>
-\\ Project 3
+Project 3
 <br>
-\\ Session 4 : functions
+Session 4 : functions
 <br>
-\\ Project 4
+Project 4
 <br>
-\\ Project 5
+Project 5
 <br>
-\\ Project 6
+Project 6
 <br>
-\\ Session 5 : arrays
+Session 5 : arrays
 <br>
-\\ Session 6 : string
+Session 6 : string
 <br>
-\\ Project 7
+Project 7
 <br>
-\\ Project 8
+Project 8
 <br>
-\\ Project 9
+Project 9
 <br>
-\\ Session 7 : pointers
+Session 7 : pointers
 <br>
-\\ Session 8 : dynamic arrays
+Session 8 : dynamic arrays
 <br>
-\\ Project 10
+Project 10
 <br>
-\\ Project 11
+Project 11
 <br>
-\\ Project 12
+Project 12
 <br>
-\\ Session 9 : struct
+Session 9 : struct
 <br>
-\\ Project 13
+Project 13
 <br>
-\\ Session 10 : files
+Session 10 : files
 <br>
-\\ Projcet 14
+Projcet 14
 <br>
-\\ Project 15
+Project 15
 <br>
-\\ Session 11 : classes
+Session 11 : classes
 <br>
-\\ Project 16
+Project 16
 <br>
-\\ Project 17
+Project 17
 <br>
-\\ Session 12 : class inheritance
+Session 12 : class inheritance
 <br>
-\\ Project 18
+Project 18
 <br>
-\\ Project 19
+Project 19
 <br>
-\\ Session 13 : polymorphism
+Session 13 : polymorphism
 <br>
-\\ Project 20
+Project 20
 <br>
-\\ Project 21
+Project 21
 <br>
-\\ Session 14 : templates
+Session 14 : templates
 <br>
-\\ Project 22
+Project 22
 <br>
-\\ Project 23
+Project 23
 <br>
-\\ Session 15 : exception handling
+Session 15 : exception handling
 <br>
-\\ Project 24
+Project 24
 <br>
-\\ Session 16 : data structures
+Session 16 : data structures
 <br>
-\\ Project 25
+Project 25
 <br>
-\\ Project 26
+Project 26
 <br>
-\\ Project 27
+Project 27
 <br>
-\\ Session 17 : Extra (enum,macro,union,typedef,...)
+Session 17 : Extra (enum,macro,union,typedef,...)
 <br>
-\\ Project 28
+Project 28
 <br>
-\\ Project 29
+Project 29
 <br>
-\\ Project 30
+Project 30
 <br>
-\\ Session 18 : STL libraries
+Session 18 : STL libraries
 <br>
 # Extra Projects
-• 
+• Projcet 31 : snake game
+<br>
+• Projcet 32 : Tic Tac Toe
+<br>
+• Projcet 33 : calendar
+<br>
+• Project 34 : Maze runner
+<br>
