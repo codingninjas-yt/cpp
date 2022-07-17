@@ -1,7 +1,7 @@
 # c++ Tutorial
-Session 1 : Variables
+Session 1 : variables
 <br>
-Session 2 : input output
+Session 2 : operators & input & output
 <br>
 Session 3 : if/else
 <br>
@@ -77,7 +77,7 @@ Session 15 : exception handling
 <br>
 Project 24
 <br>
-Session 16 : data structures
+Session 16 : list,vector,pair,...
 <br>
 Project 25
 <br>
