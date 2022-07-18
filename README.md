@@ -3,7 +3,7 @@ Session 1 : variables
 <br>
 Session 2 : operators & input & output
 <br>
-Session 3 : if/else
+Session 3 : if/else & loops
 <br>
 Project 1
 <br>
