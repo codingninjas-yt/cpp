@@ -6,5 +6,12 @@
 using namespace std;
 int main()
 {
+    int x, y;
+    cin >> x >> y;
+    cout << "jam: " << x + y << " || "
+         << "tafrigh: " << x - y << " || "
+         << "zarb: " << x * y << " || "
+         << "taghsim: " << x / y << " || "
+         << "baghimande: " << x % y;
     return 0;
 }
