@@ -37,9 +37,9 @@ Project 10
 <br>
 Project 11
 <br>
-Project 12
-<br>
 Session 9 : struct
+<br>
+Project 12
 <br>
 Project 13
 <br>
