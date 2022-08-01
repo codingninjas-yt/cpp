@@ -7,5 +7,25 @@
 using namespace std;
 int main()
 {
+    int grade;
+    int sum = 0;
+    for (int i = 0; i < 5; i++)
+    {
+        cin >> grade;
+        sum += grade;
+    }
+    int average = sum / 5;
+    if (average >= 17)
+    {
+        cout << "moadele alef";
+    }
+    else if (average >= 12 && average < 17)
+    {
+        cout << "ghabol shodi";
+    }
+    else if (average < 12)
+    {
+        cout << "mashrot shodi";
+    }
     return 0;
 }

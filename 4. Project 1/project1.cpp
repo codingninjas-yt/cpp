@@ -11,5 +11,22 @@
 using namespace std;
 int main()
 {
+    float salary = 0;
+    int count;
+    int project;
+    cout << "enter the count of projects :";
+    cin >> count;
+    for (int i = 0; i < count; i++)
+    {
+        cout << "enter project's salary: ";
+        cin >> project;
+        salary += project;
+    }
+    if (count > 4)
+    {
+        // afzayeshe hoghogh be mizane 15%
+        salary *= 1.15;
+    }
+    cout << "salary: " << salary << "$";
     return 0;
 }

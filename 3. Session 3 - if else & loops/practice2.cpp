@@ -7,5 +7,13 @@
 using namespace std;
 int main()
 {
+    float number;
+    float sum = 0;
+    do
+    {
+        cin >> number;
+        sum += number;
+    } while (number > 0);
+    cout << "majmo : " << sum - number;
     return 0;
 }

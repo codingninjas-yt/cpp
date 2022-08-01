@@ -7,5 +7,24 @@
 using namespace std;
 int main()
 {
+    int number1, number2;
+    char opt;
+    cin >> number1 >> number2 >> opt;
+    if (opt == '+')
+    {
+        cout << number1 + number2;
+    }
+    else if (opt == '-')
+    {
+        cout << number1 - number2;
+    }
+    else if (opt == '*')
+    {
+        cout << number1 * number2;
+    }
+    else if (opt == '/')
+    {
+        cout << number1 / number2;
+    }
     return 0;
 }
